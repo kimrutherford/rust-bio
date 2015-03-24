@@ -1,0 +1,1 @@
+initSidebarItems({"type":[["BWT",""],["BWTFind",""],["Less",""]],"struct":[["Occ",""]],"fn":[["bwt","Calculate Burrows-Wheeler-Transform of the given text of length n. Complexity: O(n)."],["bwtfind","Calculate the bwtfind array needed for inverting the BWT."],["invert_bwt","Calculate the inverse of a BWT of length n, which is the original text. Complexity: O(n)."],["less",""]]});

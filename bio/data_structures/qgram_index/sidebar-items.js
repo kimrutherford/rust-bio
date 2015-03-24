@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ExactMatch",""],["Interval","An interval, consisting of start and stop position (the latter exclusive)."],["Match",""],["QGramIndex","A classical, flexible, q-gram index implementation."]]});

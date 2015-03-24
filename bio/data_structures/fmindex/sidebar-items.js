@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["BiInterval",""],["FMDIndex",""],["FMIndex",""],["Interval",""]]});

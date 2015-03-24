@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["Alphabet","Representation of an alphabet."],["QGrams","Iterator over q-grams."],["RankTransform","Tools based on transforming the alphabet symbols to their lexicographical ranks."]],"type":[["SymbolRanks",""]],"mod":[["dna",""],["protein","Handling the protein alphabet."]]});

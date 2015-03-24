@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["RevComp",""]],"fn":[["alphabet","Obtain the DNA alphabet."],["iupac_alphabet","Obtain the IUPAC DNA alphabet"],["n_alphabet",""]]});
